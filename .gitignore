@@ -1,0 +1,23 @@
+# Environment variables
+.env
+.env.*
+
+# Python caches & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+*.db
+*.sqlite3
+venv/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS metadata
+Thumbs.db
+Desktop.ini
